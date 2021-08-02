@@ -1,7 +1,7 @@
 {
     "name":"4th Best Horse",
     "description": "This is one of the four best horses",
-    "image_url":"https://github.com/kogitek/nftdemo",
+    "image_url":"https://raw.githubusercontent.com/KogiTek/NFTDemo/main/TuMaLinh/358018.png",
     "attributes":[
         {
             "trait_type":"class",
